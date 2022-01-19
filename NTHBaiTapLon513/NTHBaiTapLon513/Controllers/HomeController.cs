@@ -15,7 +15,7 @@ namespace NTHBaiTapLon513.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your new.";
 
             return View();
         }

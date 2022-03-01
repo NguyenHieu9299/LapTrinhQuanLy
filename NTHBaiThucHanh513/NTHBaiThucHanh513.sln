@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTHBaiThucHanh513", "NTHBai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThucHanh", "C:\Users\hieunguyen\source\repos\ThucHanh\ThucHanh\ThucHanh.csproj", "{7D9D9F1A-A9C9-4540-99D1-83274754D2D9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DEMO", "DEMO", "{0C9EF281-2B82-4D78-B992-ADC69B67555C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D9D9F1A-A9C9-4540-99D1-83274754D2D9} = {0C9EF281-2B82-4D78-B992-ADC69B67555C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23355277-106B-42A0-A41E-068195D3DAA0}

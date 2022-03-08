@@ -77,3 +77,10 @@ D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.csproj.CopyComplete
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.dll
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.pdb
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\bin\EntityFramework.dll
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\bin\EntityFramework.SqlServer.dll
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\bin\EntityFramework.xml
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\bin\EntityFramework.SqlServer.xml
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.Migrations.InitialCreate.resources
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.csproj.GenerateResource.cache
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiThucHanh513\NTHBaiThucHanh513\obj\Debug\NTHBaiThucHanh513.Migrations.InitialCreate1.resources

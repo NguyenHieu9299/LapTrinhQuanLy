@@ -128,8 +128,13 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\DangNhapsController.cs" />
     <Compile Include="Controllers\DemoController.cs" />
+    <Compile Include="Controllers\HangBansController.cs" />
+    <Compile Include="Controllers\HoaDonBanHangsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NCCsController.cs" />
+    <Compile Include="Controllers\NVBanHangsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -177,6 +182,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\DangNhaps\" />
+    <Folder Include="Views\HangBans\" />
+    <Folder Include="Views\HoaDonBanHangs\" />
+    <Folder Include="Views\NCCs\" />
+    <Folder Include="Views\NVBanHangs\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

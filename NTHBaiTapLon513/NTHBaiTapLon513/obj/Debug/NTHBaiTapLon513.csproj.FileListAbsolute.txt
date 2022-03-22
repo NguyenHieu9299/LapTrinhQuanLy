@@ -76,8 +76,10 @@ D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\bin\Syst
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\bin\Newtonsoft.Json.xml
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\bin\Antlr3.Runtime.pdb
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csprojAssemblyReference.cache
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csproj.CoreCompileInputs.cache
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csproj.CopyComplete
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.dll
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.pdb
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.Migrations.Create_5_table.resources
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csproj.GenerateResource.cache
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.Migrations.cap_nhat_5_bảng.resources

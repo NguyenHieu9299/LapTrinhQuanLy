@@ -128,23 +128,25 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\DangNhapsController.cs" />
-    <Compile Include="Controllers\DemoController.cs" />
-    <Compile Include="Controllers\HangBansController.cs" />
-    <Compile Include="Controllers\HoaDonBanHangsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\NCCsController.cs" />
-    <Compile Include="Controllers\NVBanHangsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203221347344_Create_5_table.cs" />
+    <Compile Include="Migrations\202203221347344_Create_5_table.Designer.cs">
+      <DependentUpon>202203221347344_Create_5_table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221442538_cap_nhat_5_bảng.cs" />
+    <Compile Include="Migrations\202203221442538_cap_nhat_5_bảng.Designer.cs">
+      <DependentUpon>202203221442538_cap_nhat_5_bảng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\DangNhap.cs" />
     <Compile Include="Models\HangBan.cs" />
     <Compile Include="Models\HoaDonBanHang.cs" />
     <Compile Include="Models\NCC.cs" />
     <Compile Include="Models\NVBanHang.cs" />
     <Compile Include="Models\quanlybanhangDBContext.cs" />
-    <Compile Include="Models\TrangChu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -183,15 +185,9 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Demo\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\DangNhaps\" />
-    <Folder Include="Views\HangBans\" />
-    <Folder Include="Views\HoaDonBanHangs\" />
-    <Folder Include="Views\NCCs\" />
-    <Folder Include="Views\NVBanHangs\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -205,6 +201,14 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202203221347344_Create_5_table.resx">
+      <DependentUpon>202203221347344_Create_5_table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221442538_cap_nhat_5_bảng.resx">
+      <DependentUpon>202203221442538_cap_nhat_5_bảng.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

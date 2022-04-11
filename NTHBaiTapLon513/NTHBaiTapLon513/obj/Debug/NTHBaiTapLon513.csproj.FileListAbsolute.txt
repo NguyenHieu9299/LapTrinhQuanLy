@@ -83,3 +83,4 @@ D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debu
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.Migrations.Create_5_table.resources
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csproj.GenerateResource.cache
 D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.Migrations.cap_nhat_5_bảng.resources
+D:\LapTrinhQuanLi\LapTrinhQuanLyProject\NTHBaiTapLon513\NTHBaiTapLon513\obj\Debug\NTHBaiTapLon513.csprojAssemblyReference.cache
